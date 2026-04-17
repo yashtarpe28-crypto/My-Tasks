@@ -1,0 +1,23 @@
+.list-tags-items {
+  list-style-type: none;
+  margin-right: 20px;
+}
+
+.tags-button {
+  background: none;
+  border: 1px solid #f3aa4e;
+  padding: 8px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-weight: bold;
+  border-radius: 10px;
+}
+.bold-button {
+  background-color: #f3aa4e;
+  padding: 8px;
+  font-family: 'Roboto';
+  color: #000000;
+  font-weight: bold;
+  border-radius: 10px;
+  border: none;
+}
